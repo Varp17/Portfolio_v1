@@ -59,28 +59,6 @@ Experienced in building scalable backend services, integrating databases, and co
 
 ---
 
-## 💼 Experience
-
-### **Vasify Technologies** — *Jr Full-Stack Developer*  
-📍 Remote (Mumbai) | **Dec 2025 – Present**
-
-- Developed and maintained **backend APIs** using **Spring Boot, Node.js**
-- Built responsive **React.js frontend components**
-- Integrated **WhatsApp APIs** for automated messaging workflows
-- Collaborated directly with founders and stakeholders on rapid feature delivery
-- Participated in debugging, client discussions, and deployment readiness
-
----
-
-### **Sumago Infotech** — *Java Trainee*  
-📍 Jalgaon | **Jun 2023 – Jul 2023**
-
-- Hands-on training in **Core Java, OOP, JDBC**
-- Built desktop UI modules using **AWT/Swing**
-- Implemented **CRUD operations** with MySQL
-- Worked on **Servlets & JSP** using MVC architecture
-
----
 
 ## 🧩 Projects
 
@@ -114,28 +92,8 @@ Experienced in building scalable backend services, integrating databases, and co
 
 ---
 
-## 🎓 Education
-
-**B.Tech – Computer Engineering**  
-Godavari College of Engineering, Jalgaon  
-**2024 – 2027**
-
-**Diploma – Computer Engineering**  
-Godavari College of Engineering, Jalgaon  
-**Percentage:** 85.77%  
-**2021 – 2024**
-
----
-
-## 🌐 Languages
-
-- English  
-- Hindi  
-- Marathi  
-
----
-
 <p align="center">
   <b>Focused on building scalable systems and real-world software.</b><br/>
   <i>Open to internships, full-time roles, and collaboration opportunities.</i>
 </p>
+
